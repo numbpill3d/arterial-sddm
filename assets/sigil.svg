@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+<defs><filter id="g" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="2.2"/></filter></defs>
+<g fill="none" stroke="#b30000" stroke-width="1.4">
+<circle cx="100" cy="100" r="84" opacity=".35"/>
+<circle cx="100" cy="100" r="30" opacity=".9"/>
+<path d="M100.0 22.0 L113.7 66.9 L155.2 44.8 L133.1 86.3 L178.0 100.0 L133.1 113.7 L155.2 155.2 L113.7 133.1 L100.0 178.0 L86.3 133.1 L44.8 155.2 L66.9 113.7 L22.0 100.0 L66.9 86.3 L44.8 44.8 L86.3 66.9 Z" opacity=".95"/>
+<path d="M100 4 L100 40 M100 160 L100 196 M4 100 L40 100 M160 100 L196 100" opacity=".5"/>
+<path d="M86 86 L100 100 L114 86 M86 114 L100 100 L114 114" stroke="#e01b1b" stroke-width="1.6"/>
+</g>
+<circle cx="100" cy="100" r="2.4" fill="#e01b1b"/>
+</svg>

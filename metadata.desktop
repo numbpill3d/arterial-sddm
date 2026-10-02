@@ -1,0 +1,11 @@
+[SddmGreeterTheme]
+Name=Arterial
+Description=Black / dark-grey / arterial-red login screen — matches the Arterial KDE suite
+Author=splicer scorn
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=1.0.0
+Website=https://github.com/numbpill3d/arterial-sddm
+Screenshot=preview.png
+MainScript=Main.qml
+TranslationsDirectory=
